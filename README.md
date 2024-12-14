@@ -119,13 +119,6 @@ Puedes personalizar la configuración del proyecto editando el archivo `vue.conf
 
 ---
 
-## 🛡️ Licencia
-
-Este proyecto está bajo la licencia **MIT**.  
-Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
 ## ✨ Autores
 
 **Daniela Tupiza**  
