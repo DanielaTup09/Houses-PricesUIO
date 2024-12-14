@@ -51,8 +51,8 @@ export default {
       ],
       authors: [
         { name: "Daniela Tupiza", description: "Ingeniería en Computación Gráfica.", image: require('@/assets/Daniela.png') },
-        { name: "Esteven Pérez", description: "Economía", image: require('@/assets/photo.png') },
-        { name: "Salome Polanco", description: "Sistemas de la Información", image: require('@/assets/photo.png') },
+        { name: "Esteven Pérez", description: "Economía", image: require('@/assets/Steven.jpg') },
+        { name: "Salome Polanco", description: "Sistemas de la Información", image: require('@/assets/salome_polanco.jpg') },
         { name: "María Rosa Camacho", description: "Diseño Industrial", image: require('@/assets/mariaRosa.jpg') },
       ],
 
