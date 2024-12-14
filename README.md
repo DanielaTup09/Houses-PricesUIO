@@ -77,20 +77,6 @@ npm run serve
 El servidor estará disponible en:  
 [http://localhost:8080](http://localhost:8080)
 
-### Producción
-
-Para compilar y minificar el proyecto para producción:
-```bash
-npm run build
-```
-
-### Corrección de Estilo (Lint)
-
-Para verificar y corregir errores de estilo en el código:
-```bash
-npm run lint
-```
-
 ---
 
 ## 🌟 Funcionalidades Clave
