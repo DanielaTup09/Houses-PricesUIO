@@ -107,10 +107,12 @@ Puedes personalizar la configuración del proyecto editando el archivo `vue.conf
 
 ## ✨ Autores
 
-**Daniela Tupiza**  
-**Steven Pérez**
+**Daniela Tupiza**
+
 **Salomé Polanco**
+
 **Steven Pérez**
+
 **María Rosa Camacho**
     
 
