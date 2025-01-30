@@ -39,6 +39,7 @@ HousePrices/
 - **CSS:** Para estilos personalizados.
 - **GitHub:** Control de versiones y alojamiento del repositorio.
 
+
 ---
 
 ## 📦 Instalación
@@ -47,23 +48,22 @@ HousePrices/
 
 Asegúrate de tener instalado:
 
-- **Node.js**: [Descargar Node.js](https://nodejs.org/)
-- **npm** (incluido con Node.js)
+-Python 3.10 a 3.12
+-uv, pip o pipx para la instalación de paquetes en Python.
+-Node.js: Descargar Node.js
+-npm (incluido con Node.js)
 
-### 2. Pasos para Instalar
+### 2. Instalación de Langflow y Configuración del Entorno Virtual
 
-1. Clona este repositorio:
+1. Crea un entorno virtual en Python:
+
    ```bash
-   git clone https://github.com/TuUsuario/HousePrices.git
-   cd HousePrices
-   ```
+   python -m venv langflow_env
 
-2. Instala las dependencias necesarias:
-   ```bash
-   npm install
-   ```
-
----
+2. Activa el entorno virtual con (Windows) langflow_env\Scripts\activate
+3. Instala Langflow en su versión 1.1 python -m pip install langflow==1.1
+4. Carga el archivo de flujo en Langflow (Anexo como LangflowRAGHouses) y ejecútalo.
+    Aquí necesitarás ingresar tus APIS, y endpoints necesarios según el esquema de archivo de flujo te mostrará.
 
 ## 🖥️ Uso del Proyecto
 
