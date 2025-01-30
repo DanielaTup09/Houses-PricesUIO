@@ -62,16 +62,16 @@ Asegúrate de tener instalado:
 
 2. Activa el entorno virtual con (Windows) langflow_env\Scripts\activate
 3. Instala Langflow en su versión 1.1 python -m pip install langflow==1.1
-4. Carga el archivo de flujo en Langflow (Anexo como LangflowRAGHouses) y ejecútalo.
+4. Carga el archivo de flujo en Langflow (Anexo como LangflowRAGHouses.json) y ejecútalo.
     Aquí necesitarás ingresar tus APIS, y endpoints necesarios según el esquema de archivo de flujo te mostrará.
 
 ### 3. Clona este repositorio
    
-```bash
+   ```bash
    git clone https://github.com/TuUsuario/HousePrices.git
    cd HousePrices
-
-## 🖥️ Uso del Proyecto
+   ```
+###🖥️ Uso del Proyecto
 
 ### Desarrollo
 
