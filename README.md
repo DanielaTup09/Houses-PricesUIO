@@ -71,7 +71,7 @@ Asegúrate de tener instalado:
    git clone https://github.com/TuUsuario/HousePrices.git
    cd HousePrices
    ```
-###🖥️ Uso del Proyecto
+## 🖥️ Uso del Proyecto
 
 ### Desarrollo
 
