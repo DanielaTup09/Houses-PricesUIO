@@ -65,6 +65,12 @@ Asegúrate de tener instalado:
 4. Carga el archivo de flujo en Langflow (Anexo como LangflowRAGHouses) y ejecútalo.
     Aquí necesitarás ingresar tus APIS, y endpoints necesarios según el esquema de archivo de flujo te mostrará.
 
+### 3. Clona este repositorio
+   
+```bash
+   git clone https://github.com/TuUsuario/HousePrices.git
+   cd HousePrices
+
 ## 🖥️ Uso del Proyecto
 
 ### Desarrollo
